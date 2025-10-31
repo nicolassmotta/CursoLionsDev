@@ -1,0 +1,11 @@
+# Ignora todas as pastas de dependências do Node.js
+node_modules/
+
+# Ignora todos os arquivos de variáveis de ambiente
+.env
+
+# Arquivos de log e debug (opcional, mas recomendado)
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
